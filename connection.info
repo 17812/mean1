@@ -1,0 +1,3 @@
+To connect using the mongo shell:   mongo ds159978.mlab.com:59978/multivision -u <dbuser> -p <dbpassword>
+
+To connect using a driver via the standard MongoDB URI :  mongodb://<dbuser>:<dbpassword>@ds159978.mlab.com:59978/multivision

@@ -1,0 +1,23 @@
+{
+  "name": "plural-mean2",
+  "version": "1.0.0",
+  "description": "plural sight mean stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "endignes" : {
+    "node" : "6.9.x",
+    "npm" : "3.10.x"
+  },
+  "author": "Tolga Dane",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "mongoose": "^4.7.6",
+    "morgan": "^1.7.0",
+    "stylus": "^0.54.5"
+  }
+}
